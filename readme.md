@@ -17,8 +17,8 @@ A modern, responsive business landing page built using **HTML**, **Tailwind CSS*
 * HTML5
 * Tailwind CSS (via CDN)
 * Font Awesome (for icons)
-[img](./chrome-capture-2026-03-25.png)
-
+![img](./chrome-capture-2026-03-25.png)
+[live](https://elbineldhose007.github.io/Buisness-Navbar-Responsive/)
 ## 📂 Project Structure
 
 ```
